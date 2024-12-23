@@ -54,7 +54,3 @@ Questo progetto implementa un sistema di chat server-client in Java utilizzando 
 4. **Invio e ricezione di messaggi**
    - Ogni client può inviare messaggi, che verranno ricevuti dagli altri client connessi.
    - Per uscire, digita `exit`.
-
-## Esempio di utilizzo
-
-1. Avvia il server:
