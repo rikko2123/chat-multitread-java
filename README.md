@@ -23,11 +23,6 @@ Questo progetto implementa un sistema di chat server-client in Java utilizzando 
   - Consente di inviare messaggi e ricevere i messaggi degli altri client in tempo reale.
   - Implementa un thread per la ricezione dei messaggi per evitare blocchi.
 
-## Prerequisiti
-
-- Java 8 o versione successiva
-- IDE Java o terminale per eseguire il codice
-
 ## Come eseguire il progetto
 
 1. **Compilazione del codice**
